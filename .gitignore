@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --- Estensioni GIS e Geologia ---
+*.tif
+*.tiff
+*.las
+*.laz
+*.gdb/
+*.lock
+*.qgs~
+*.aprx~
+
+# --- Cartelle Dati (Consigliato) ---
+data_raw/
+temp/
