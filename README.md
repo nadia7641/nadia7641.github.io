@@ -25,7 +25,7 @@ Beyond the data, I am a **traditional artist**. I love drawing and painting, a p
 *Detailed geomorphological mapping of Moreaux Crater and volcanic analysis of Arsia Mons, Mars, using CTX and HiRISE data.*
 > **Tools:** Tools: QGIS, CTX/HiRISE imagery, Planetary Geocoding.
 
-### 2. [Sentinel-2 Remote Sensing & Machine Learning](https://github.com/nadia7641/sentinel-2-remote-sensing)
+### 2. [Sentinel-2 Remote Sensing & Machine Learning](https://github.com/nadia7641/sentinel2-remote-sensing)
 *Wildfire burn severity analysis in Asciano Pisano and Random Forest land cover classification of the Barbagia region.*
 > **Tools:** Google Earth Engine (GEE), JavaScript, Sentinel-2 (L2A), NDVI/dNBR).
 
