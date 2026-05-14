@@ -21,15 +21,13 @@ Beyond the data, I am a **traditional artist**. I love drawing and painting, a p
 
 ## 🚀 Highlighted Projects
 
-### 1. Planetary Geomorphology: GMAP Winter School 2026
+### 1. [Planetary Geomorphology: GMAP Winter School 2026](https://github.com/nadia7641/planetary-remote-sensing)
 *Detailed geomorphological mapping of Moreaux Crater and volcanic analysis of Arsia Mons, Mars, using CTX and HiRISE data.*
 > **Tools:** Tools: QGIS, CTX/HiRISE imagery, Planetary Geocoding.
-> [Link to Project]
 
-### 2. Sentinel-2 Remote Sensing & Machine Learning
+### 2. [Sentinel-2 Remote Sensing & Machine Learning](https://github.com/nadia7641/sentinel-2-remote-sensing)
 *Wildfire burn severity analysis in Asciano Pisano and Random Forest land cover classification of the Barbagia region.*
 > **Tools:** Google Earth Engine (GEE), JavaScript, Sentinel-2 (L2A), NDVI/dNBR).
-> https://github.com/nadia7641/sentinel2-remote-sensing#sentinel-2-remote-sensing-portfolio
 
 ---
 
