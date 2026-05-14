@@ -21,14 +21,14 @@ Beyond the data, I am a **traditional artist**. I love drawing and painting, a p
 
 ## 🚀 Highlighted Projects
 
-### 1. [Project Title: e.g., Heavy Metal Distribution Analysis]
-*A brief summary of the study: for example, an analysis of industrial contamination using IDW interpolation.*
-> **Tools:** Python, Geopandas, Spatial Statistics.
+### 1. Planetary Geomorphology: GMAP Winter School 2026
+*Detailed geomorphological mapping of Moreaux Crater and volcanic analysis of Arsia Mons, Mars, using CTX and HiRISE data.*
+> **Tools:** Tools: QGIS, CTX/HiRISE imagery, Planetary Geocoding.
 > [Link to Project]
 
-### 2. [Project Title: e.g., Martian Geomorphology Mapping]
-*A brief summary: for example, mapping geological units on Mars using HRSC data.*
-> **Tools:** ArcGIS Pro, Digital Elevation Models (DEM).
+### 2. Sentinel-2 Remote Sensing & Machine Learning
+*Wildfire burn severity analysis in Asciano Pisano and Random Forest land cover classification of the Barbagia region.*
+> **Tools:** Google Earth Engine (GEE), JavaScript, Sentinel-2 (L2A), NDVI/dNBR).
 > [Link to Project]
 
 ---
