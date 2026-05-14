@@ -39,5 +39,5 @@ Beyond the data, I am a **traditional artist**. I love drawing and painting, a p
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Insert your link]
-- **Email:** [Insert your email]
+- **LinkedIn:** [[Insert your link](https://www.linkedin.com/in/n-poddighe/)]
+- **Email:** [n.poddighe@outlook.com]
