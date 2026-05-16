@@ -13,7 +13,7 @@ Beyond the data, I am a **traditional artist**. I love drawing and painting, a p
 
 ## 🛠️ Technical Toolkit
 - **GIS Software:** QGIS, ArcGIS Pro, Google Earth Engine.
-- **Programming:** Python (Pandas, Geopandas, Rasterio), R.
+- **Spatial Scripting & Automation:** Google Earth Engine (JavaScript) for cloud-based raster processing and multi-spectral analysis.
 - **Remote Sensing:** Multispectral analysis, Sentinel-2 & Landsat processing, NDVI/NDBR indices.
 - **Geochemistry:** Geochemical modeling and soil contamination assessment.
 
